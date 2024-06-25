@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint": "npx eslint .",
+    "lint": "eslint .",
     "start": "node app.js",
     "dev": "nodemon app.js"
   },
@@ -13,7 +13,7 @@
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.57.0",
-    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-airbnb-base": "^19.0.4",
     "eslint-plugin-import": "^2.29.1",
     "nodemon": "^3.1.4"
   },
