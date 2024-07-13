@@ -19,6 +19,7 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "mongoose": "^8.4.3"
+    "mongoose": "^8.4.3",
+    "pg-promise": "^11.9.0"
   }
 }
